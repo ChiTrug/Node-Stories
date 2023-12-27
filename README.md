@@ -1,3 +1,4 @@
+**How to run:**
 - There you’ll see a file naming “config.env” under the folder “config”.
 - Insert your own Google OAuth and MongoDB URI credentials on it.
 - Back to the root folder, open up Terminal/Command Prompt/Git Bash -> Install all the dependencies: npm install
