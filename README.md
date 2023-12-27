@@ -8,3 +8,12 @@
   
 You can refer to how to obtain your own Google OAuth at the following link:
 https://www.balbooa.com/help/gridbox-documentation/integrations/other/google-client-id
+
+Available Features:
+
+- Google OAuth Authentication
+- Post Stories
+- Manage Stories
+- Set Public and Private Stories
+- Explore Public Stories
+- Sort Stories
